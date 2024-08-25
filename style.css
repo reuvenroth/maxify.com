@@ -1,0 +1,26 @@
+* {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.hero {
+    background-color: #000;
+    color: #fff;
+}
+
+.footer {
+    background-color: #00C8FF;
+    display: flex;
+    flex-direction: row wrap;
+    gap: 70px;
+    padding: 93px 69px;
+}
+
+.footer .title {
+    color: #fff;
+    font-size: 42px;
+    margin-bottom: 42px;
+    : 12px;
+}
